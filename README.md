@@ -10,9 +10,13 @@ Then, you will have to insert 5 queries. You will see the top 10 results of each
 In order to check correctly how our project works, as we have decided for each query which document is relevant or not in a binary way, you will have to insert the following queries:
 
 1: covid pandemic
+
 2: global health
+
 3: support of other countries
+
 4: people access to vaccine
+
 5: people need care
 
 If you insert other queries, you will have to decide for them which documents are relevant or not. 
